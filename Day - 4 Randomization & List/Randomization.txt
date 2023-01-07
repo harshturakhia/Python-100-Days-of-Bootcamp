@@ -1,0 +1,11 @@
+Randomization :-
+
+    Randomization = degree of unpredictability
+    Computer are deterministic
+
+List :- 
+
+    -> data structure
+    -> orderly arranged
+    -> queue
+    -> arrays of elements

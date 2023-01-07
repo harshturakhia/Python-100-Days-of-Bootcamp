@@ -1,0 +1,10 @@
+import random
+
+print("Welcome to coin toss challenge...")
+
+num = random.randint(0,1)
+
+if num == 0:
+        print("Tails!")
+else:
+        print("Heads!")
